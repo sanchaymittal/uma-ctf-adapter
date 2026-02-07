@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.15;
+pragma solidity 0.8.24;
 
 /// @notice Stub contract used to mock UMA's Voting.sol(or OracleChildTunnel on Polygon)
 contract OracleStub {

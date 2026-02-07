@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-only
-pragma solidity 0.8.15;
+pragma solidity 0.8.24;
 
 /**
  * @title Provides addresses of the live contracts implementing certain interfaces.

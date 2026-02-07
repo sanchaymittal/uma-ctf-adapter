@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.15;
+pragma solidity 0.8.24;
 
 import { AdapterHelper } from "./dev/AdapterHelper.sol";
 import { IAddressWhitelist } from "src/interfaces/IAddressWhitelist.sol";
